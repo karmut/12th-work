@@ -1,0 +1,19 @@
+.menu-item {
+    display: block;
+    background-color: rgb(163, 141, 184);
+    width: 25%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu-item:hover {
+    background-color:rgb(143, 115, 168);
+}
